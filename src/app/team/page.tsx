@@ -63,7 +63,7 @@ export default function Team() {
             <div className="w-12 sm:w-16 h-0.5 bg-primary/50"></div>
             <div className="space-y-4 sm:space-y-6 text-white/80 font-light leading-relaxed text-sm sm:text-base md:text-lg font-serif">
               <p>
-                Never in a million years would Shammi and Mithu Malik have thought they'd be opening a restaurant during a global pandemic. After almost two years of concepting and planning, the husband-wife duo opened the doors of Musaafer.
+                Never in a million years would Shammi and Mithu Malik have thought they&apos;d be opening a restaurant during a global pandemic. After almost two years of concepting and planning, the husband-wife duo opened the doors of Musaafer.
               </p>
               <p>
                 Located at 5115 Westheimer Road, the expansive 10,000 square foot space features six distinct dining rooms plus an outdoor patio, each with a different look and feel and with items entirely custom-made and shipped from India.

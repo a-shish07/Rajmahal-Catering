@@ -80,7 +80,7 @@ export default function Contact() {
             <div className="w-16 sm:w-20 h-[1px] bg-primary/60"></div>
 
             <div className="space-y-4 sm:space-y-6 text-white/70 font-light text-base sm:text-lg max-w-md font-serif">
-              <p>Need catering? We'd love to hear from you.</p>
+              <p>Need catering? We&apos;d love to hear from you.</p>
 
               <div className="space-y-4 sm:space-y-6 pt-2">
                 <a 

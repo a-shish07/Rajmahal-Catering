@@ -78,7 +78,7 @@ export default function MixologyProgram() {
             Embarking on a culinary adventure, Rajmahal stands as a testament to the harmonious flow on the flavors, cultures, and compelling narratives. The beverage menu, thoughtfully divided into five captivating sections—Signature Cocktails, The Beekeeper, Classic, Gin & Tonics, and Spirits Selection—unveils a rich tapestry of stories and libations that extend beyond conventional boundaries.
           </p>
           <p>
-            Each section serves as a portal into a world of flavors, where the Signature Cocktails pay homage to India's storied history, The Beekeeper celebrates local honey, and the Classic section reimagines timeless cocktails with an Indian twist. The Gin & Tonics section offers a curated selection of Gins paired with botanicals, while the Spirits Selection showcases a diverse array of spirits from around the world. Together, these sections create an unforgettable culinary experience that transcends borders and invites guests to savor the essence of Rajmahal's mixology program.
+            Each section serves as a portal into a world of flavors, where the Signature Cocktails pay homage to India&apos;s storied history, The Beekeeper celebrates local honey, and the Classic section reimagines timeless cocktails with an Indian twist. The Gin & Tonics section offers a curated selection of Gins paired with botanicals, while the Spirits Selection showcases a diverse array of spirits from around the world. Together, these sections create an unforgettable culinary experience that transcends borders and invites guests to savor the essence of Rajmahal&apos;s mixology program.
           </p>
         </div>
 
@@ -90,10 +90,10 @@ export default function MixologyProgram() {
           <div className="w-12 sm:w-16 h-0.5 bg-primary/50 my-3 sm:my-4"></div>
           <div className="space-y-4 text-white/70 font-light leading-relaxed font-serif text-sm sm:text-base">
             <p>
-              Rajmahal's Signature Cocktails serve as a vibrant celebration of India's storied history, intricately woven with captivating narratives and flavours. A prime example is the Kohinoor a tribute to the world largest cut diamond. This cocktail artfully combines the richness of saffron-infused vodka, the sweetness of rose syrup, and the tanginess of fresh lemon juice, creating a harmonious blend that pays homage to the opulence and allure of the Kohinoor diamond.
+              Rajmahal&apos;s Signature Cocktails serve as a vibrant celebration of India&apos;s storied history, intricately woven with captivating narratives and flavours. A prime example is the Kohinoor a tribute to the world largest cut diamond. This cocktail artfully combines the richness of saffron-infused vodka, the sweetness of rose syrup, and the tanginess of fresh lemon juice, creating a harmonious blend that pays homage to the opulence and allure of the Kohinoor diamond.
             </p>
             <p>
-              The Paan Negroni seamlessly merges the essence of India's paan culture with the bitterness of a Negroni. Sous vide-infused Tanqueray Rangpur, Ketel One vodka, Campari, and a blend of dry sherry and sweet vermouth create a symphony of flavours. The cocktail is garnished with a paan leaf and a sprinkle of fennel seeds, offering a unique twist on the classic Negroni while paying homage to India's rich culinary heritage.
+              The Paan Negroni seamlessly merges the essence of India&apos;s paan culture with the bitterness of a Negroni. Sous vide-infused Tanqueray Rangpur, Ketel One vodka, Campari, and a blend of dry sherry and sweet vermouth create a symphony of flavours. The cocktail is garnished with a paan leaf and a sprinkle of fennel seeds, offering a unique twist on the classic Negroni while paying homage to India&apos;s rich culinary heritage.
             </p>
           </div>
         </section>
@@ -113,7 +113,7 @@ export default function MixologyProgram() {
           <div className="w-12 sm:w-16 h-0.5 bg-primary/50 my-3 sm:my-4"></div>
           <div className="space-y-4 text-white/70 font-light leading-relaxed font-serif text-sm sm:text-base">
             <p>
-              This section pays homage to the origins of Gin & Tonics in India. Our expert curation showcases the finest Gins paired with the right tonics, herbs, spices, botanicals, juices, and bitters. Each combination is thoughtfully crafted to create a symphony of flavors that transport guests to the heart of India's colonial past, where the Gin & Tonic was born as a refreshing remedy against tropical diseases. The Ultimate Gin & Tonic section invites guests to savor the rich history and vibrant flavors that define this iconic cocktail.
+              This section pays homage to the origins of Gin & Tonics in India. Our expert curation showcases the finest Gins paired with the right tonics, herbs, spices, botanicals, juices, and bitters. Each combination is thoughtfully crafted to create a symphony of flavors that transport guests to the heart of India&apos;s colonial past, where the Gin & Tonic was born as a refreshing remedy against tropical diseases. The Ultimate Gin & Tonic section invites guests to savor the rich history and vibrant flavors that define this iconic cocktail.
             </p>
           </div>
         </section>
