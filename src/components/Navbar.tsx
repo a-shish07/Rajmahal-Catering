@@ -62,7 +62,7 @@ const Navbar = () => {
     <motion.nav
       initial={{ y: -80 }}
       animate={{ y: showNavbar ? 0 : -90 }}
-      transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
+      transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] as const }}
       className="fixed top-0 left-0 w-full z-[100] bg-transparent"
     >
       {/* Container with dynamic height/padding */}
