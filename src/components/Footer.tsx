@@ -9,15 +9,15 @@ const Footer = () => {
         {/* Contact Info */}
         <div className="space-y-6">
           <p className="text-white text-lg tracking-wide font-serif">
-            281.806.6167
+            (913) 645-1420
           </p>
 
           <p className="font-serif text-white/70 underline underline-offset-4 decoration-white/40 hover:text-white transition">
-            reservation@musaaferhouston.com
+            info@rajindiankc.com
           </p>
 
           <p className="text-white/80 text-base font-serif">
-            © 2023-2026 by Rajmahal Catering.
+            © 2026 by Rajmahal Catering.
           </p>
 
           {/* <p className="text-white/60 text-sm font-serif">

@@ -120,7 +120,8 @@ export default function MixologyProgram() {
 
         <section className="pt-8 sm:pt-12 text-center sm:text-left">
           <Link 
-            href="https://static.wixstatic.com/media/058839_694087359e1544388cf27fbfe164644a.pdf" 
+            href="https://menu.rajindiankc.com/bars" 
+            target='blank'
             className="w-full sm:w-auto inline-block bg-primary text-black px-8 sm:px-12 py-4 sm:py-5 font-medium tracking-[0.2em] sm:tracking-[0.3em] hover:bg-white transition-all text-xs sm:text-sm uppercase"
           >
             CATERING COCKTAIL MENU

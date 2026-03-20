@@ -23,21 +23,21 @@ export default function Team() {
           </div>
           <div className="w-full lg:w-1/2 space-y-6 sm:space-y-8">
             <div className="space-y-3 sm:space-y-4">
-              <h2 className="text-primary tracking-[0.2em] sm:tracking-[0.3em] font-medium text-sm sm:text-lg uppercase">MUSAAFER CORPORATE EXECUTIVE CHEF</h2>
-              <h3 className="text-2xl sm:text-3xl md:text-4xl font-heading leading-tight uppercase tracking-widest">CHEF MAYANK</h3>
+              <h2 className="text-primary tracking-[0.2em] sm:tracking-[0.3em] font-medium text-sm sm:text-lg uppercase">Rajmahal CORPORATE EXECUTIVE CHEF</h2>
+              <h3 className="text-2xl sm:text-3xl md:text-4xl font-heading leading-tight uppercase tracking-widest">CHEF BOSE</h3>
             </div>
             <div className="w-12 sm:w-16 h-0.5 bg-primary/50"></div>
             <div className="space-y-4 sm:space-y-6 text-white/80 font-light leading-relaxed text-sm sm:text-base md:text-lg font-serif">
               <p>
-                Chef Mayank is available for speaking engagements, talking head TV appearances, filmed (TV) or live event culinary competition judging, South Asian leadership events, wedding menu planning and celebrity chef collaborations. He is a graduate of the Institute of Hotel Management of Guwahati, India.
+                Chef Raj is available for speaking engagements, talking head TV appearances, filmed (TV) or live event culinary competition judging, South Asian leadership events, wedding menu planning and celebrity chef collaborations. He is a graduate of the Institute of Hotel Management of Guwahati, India.
               </p>
               <p>
-                Chef Mayank combines his expertise, passion and encyclopedic knowledge of spices, ingredients and textures serving a neoteric Indian dining experience in a stunning, expertly curated setting within Musaafer (meaning “The Traveller”,) built within Houston’s luxurious Galleria at Westheimer and Sage.
+                Chef Raj combines his expertise, passion and encyclopedic knowledge of spices, ingredients and textures serving a neoteric Indian dining experience in a stunning, expertly curated setting within Rajmahal built within Houston’s luxurious Galleria at Westheimer and Sage.
               </p>
               <div className="space-y-3 sm:space-y-4 pt-4 sm:pt-6">
                 <h4 className="text-primary font-heading text-xl sm:text-2xl uppercase tracking-widest leading-tight">RECENT PRESS, FIRSTS, AND ACCOLADES</h4>
                 <p>
-                  In February 2024, Musaafer was named among the “Top 15 Most Romantic Restaurants in the world” alongside such luminaries as NYC’s “Eleven Madison Park” by Blacklane, an international, award-winning VIP travel company.
+                  In February 2024, Rajmahal was named among the “Top 15 Most Romantic Restaurants in the world” alongside such luminaries as NYC’s “Eleven Madison Park” by Blacklane, an international, award-winning VIP travel company.
                 </p>
                 <p>
                   January 2024 saw the unveiling of an avant-garde dinner collaboration with Bayou City Hemp and 8th Wonder Brewery.
@@ -63,7 +63,7 @@ export default function Team() {
             <div className="w-12 sm:w-16 h-0.5 bg-primary/50"></div>
             <div className="space-y-4 sm:space-y-6 text-white/80 font-light leading-relaxed text-sm sm:text-base md:text-lg font-serif">
               <p>
-                Never in a million years would Shammi and Mithu Malik have thought they&apos;d be opening a restaurant during a global pandemic. After almost two years of concepting and planning, the husband-wife duo opened the doors of Musaafer.
+                Never in a million years would Shammi and Mithu Malik have thought they&apos;d be opening a restaurant during a global pandemic. After almost two years of concepting and planning, the husband-wife duo opened the doors of Rajmahal.
               </p>
               <p>
                 Located at 5115 Westheimer Road, the expansive 10,000 square foot space features six distinct dining rooms plus an outdoor patio, each with a different look and feel and with items entirely custom-made and shipped from India.
@@ -89,7 +89,7 @@ export default function Team() {
             <div className="w-12 sm:w-16 h-0.5 bg-primary/50"></div>
             <div className="space-y-4 sm:space-y-6 text-white/80 font-light leading-relaxed text-sm sm:text-base md:text-lg font-serif">
               <p>
-                With an extraordinary journey from the farming fields of India to becoming a celebrated innovator in the world of confectionery and desserts, Sumant Sharma leads the neoteric Indian pastry program at Musaafer Houston.
+                With an extraordinary journey from the farming fields of India to becoming a celebrated innovator in the world of confectionery and desserts, Sumant Sharma leads the neoteric Indian pastry program at Rajmahal.
               </p>
               <div className="space-y-3 sm:space-y-4 pt-4 sm:pt-6">
                 <h4 className="text-primary font-heading text-xl sm:text-2xl uppercase tracking-widest">ACCOLADES AND ACHIEVEMENTS</h4>

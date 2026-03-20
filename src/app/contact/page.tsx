@@ -91,10 +91,10 @@ export default function Contact() {
                 </a>
 
                 <a 
-                  href="mailto:reservation@musaaferhouston.com" 
+                  href="mailto:info@rajindiankc.com" 
                   className="block text-white/50 hover:text-primary transition-all underline underline-offset-8 font-serif text-sm sm:text-base break-words"
                 >
-                  reservation@musaaferhouston.com
+                  info@rajindiankc.com
                 </a>
               </div>
             </div>

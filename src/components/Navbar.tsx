@@ -44,8 +44,8 @@ const Navbar = () => {
   const leftLinks = [
     { name: 'GALLERY', href: '/gallery' },
     { name: 'MIXOLOGY PROGRAM', href: '/mixology-program' },
-    { name: 'TRAYS', href: getAssetUrl('TRAYS'), external: true },
-    { name: 'MENU', href: getAssetUrl('MENU'), external: true },
+    { name: 'TRAYS', href: 'https://menu.rajindiankc.com/food', external: true },
+    { name: 'MENU', href: 'https://menu.rajindiankc.com/food', external: true },
   ];
 
   const rightLinks = [
@@ -158,6 +158,7 @@ const Navbar = () => {
                 >
                   <Link
                     href={link.href}
+                    target={(link as any).external ? "_blank" : "_self"}
                     onClick={() => setIsMobileMenuOpen(false)}
                     className="text-lg font-light tracking-[0.2em] text-white hover:text-primary uppercase block py-2 border-b border-white/10"
                   >

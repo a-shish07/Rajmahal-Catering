@@ -68,11 +68,11 @@ export default function Home() {
                {/* Accent elements */}
                <div className="absolute -top-6 -left-6 w-20 h-20 sm:w-40 sm:h-40 border-t-2 border-l-2 border-primary/30 z-0"></div>
                <div className="absolute -bottom-6 -right-6 w-20 h-20 sm:w-40 sm:h-40 border-b-2 border-r-2 border-primary/30 z-0"></div>
-               <img 
+               {/* <img 
                  src="https://static.wixstatic.com/media/058839_8a93e4a018264f039aecf0444d01b2ea~mv2.png/v1/crop/x_0,y_0,w_557,h_1080/fill/w_193,h_373,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gold%20musaafer.png" 
                  alt="Gold Accent" 
                  className="absolute -right-10 sm:-right-20 top-1/2 transform -translate-y-1/2 h-40 sm:h-80 w-auto opacity-30 z-20 pointer-events-none"
-               />
+               /> */}
             </div>
             
             <div className="w-full lg:w-1/2 text-white/90 space-y-6 lg:space-y-8">
@@ -105,7 +105,7 @@ export default function Home() {
             DEFINE WHAT <br className="hidden sm:block" /> TALES MEANS
           </h2>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8">
-            <Link href="/menu" className="w-full sm:w-auto text-white px-8 sm:px-12 py-4 sm:py-5 font-medium tracking-[0.3em] bg-gray-600 hover:bg-primary transition-all text-xs sm:text-sm uppercase min-w-[200px] sm:min-w-[300px]">
+            <Link href="https://menu.rajindiankc.com/food" target="_blank" className="w-full sm:w-auto text-white px-8 sm:px-12 py-4 sm:py-5 font-medium tracking-[0.3em] bg-gray-600 hover:bg-primary transition-all text-xs sm:text-sm uppercase min-w-[200px] sm:min-w-[300px]">
               CATERING MENU
             </Link>
             <Link href="/gallery" className="w-full sm:w-auto border-2 border-gray-600 px-8 sm:px-12 py-4 sm:py-5 font-medium tracking-[0.3em] hover:bg-primary hover:text-white transition-all text-xs sm:text-sm uppercase min-w-[200px] sm:min-w-[300px] text-white">

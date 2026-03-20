@@ -10,7 +10,7 @@ const faqs = [
   },
   {
     question: "What is the booking process for catering services?",
-    answer: "To inquire about a booking, visit our website or contact us at 281.806.6167 or via email at reservation@musaaferhouston.com."
+    answer: "To inquire about a booking, visit our website or contact us at 281.806.6167 or via email at info@rajindiankc.com."
   },
   {
     question: "How much in advance should I book your catering services?",
